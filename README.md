@@ -1,6 +1,6 @@
 # EESSI Terminal
 
-A browser-based terminal for DSRI with the [EESSI](https://www.eessi.io/docs/)
+A browser-based terminal with the [EESSI](https://www.eessi.io/docs/)
 scientific software stack preloaded. Researchers get a shell where
 `module avail` lists thousands of optimized HPC applications — GROMACS,
 OpenFOAM, PyTorch, QuantumESPRESSO — without building images or maintaining
